@@ -1,4 +1,4 @@
-  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/9d/2e/fa/9d2efa39ba81a73d45f8d315622736d6.jpg">
+  <img align="right" alt="Coding" width="1200" src="https://i.pinimg.com/564x/9d/2e/fa/9d2efa39ba81a73d45f8d315622736d6.jpg">
 
 
 <h3 align="center">Languages and Tools:</h3>
