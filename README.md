@@ -12,3 +12,9 @@
 <img width = 100 src="https://i.ibb.co/rGFTQrw/download.jpg" alt="download" border="0"></a>
 </p>
 <h2 align = "center">My Stats :</h2>
+
+<p align="center">
+ 
+ <img  src="https://github-readme-stats.vercel.app/api?username=DaoudAkram60&theme=shadow_green"/>
+ 
+</p>
