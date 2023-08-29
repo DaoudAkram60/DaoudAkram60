@@ -7,3 +7,8 @@
 
 </p>
 
+<h2 align="center">Languages :</h2>
+<p align="center">
+<img width = 100 src="https://i.ibb.co/rGFTQrw/download.jpg" alt="download" border="0"></a>
+</p>
+<h2 align = "center">My Stats :</h2>
