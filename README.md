@@ -1,2 +1,9 @@
-<img align="center" width=1200 src="https://i.ibb.co/7R1sbjX/Le-Akram.jpg">
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaoudAkram60&count_bg=%2362D5C0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<img align="center" width= 1200 src="https://i.ibb.co/7R1sbjX/Le-Akram.jpg">
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/DaoudAkram60/DaoudAkram60"/> 
+ <img src="https://badges.pufler.dev/repos/DaoudAkram60"/>
+ <img src="https://badges.pufler.dev/commits/monthly/DaoudAkram60"/>
+
+</p>
+
