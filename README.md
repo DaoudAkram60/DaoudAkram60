@@ -15,6 +15,6 @@
 
 <p align="center">
  
- <img  src="https://github-readme-stats.vercel.app/api?username=DaoudAkram60&theme=shadow_green"/>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaoudAkram60)](https://github.com/anuraghazra/github-readme-stats)
  
 </p>
