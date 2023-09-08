@@ -1,9 +1,8 @@
 <img align="center" width= 1200 src="https://i.ibb.co/7R1sbjX/Le-Akram.jpg">
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/DaoudAkram60/DaoudAkram60"/> 
  <img src="https://badges.pufler.dev/repos/DaoudAkram60"/>
- <img src="https://badges.pufler.dev/commits/monthly/DaoudAkram60"/>
+ <img src="https://komarev.com/ghpvc/?username=DaoudAkram60&color=brightgreen"/>
 
 </p>
 
@@ -15,6 +14,6 @@
 
 <p align="center">
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaoudAkram60)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=DaoudAkram60"/>
  
 </p>
