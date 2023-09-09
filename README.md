@@ -1,5 +1,5 @@
 <p align= "center">
-  <img width = 900  src="https://i.ibb.co/7NxnGCg/Le-Akram.jpg" />
+  <img width = 800  src="https://i.ibb.co/7NxnGCg/Le-Akram.jpg" />
 </p>
 <h2 align="center">Languages :</h2>
 <p align="center">
